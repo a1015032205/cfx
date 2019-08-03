@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../stuSystem/StuSystem2/WebContent/WEB-INF/lib/jstl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../stuSystem/StuSystem2/WebContent/WEB-INF/lib/standard.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../stuSystem/StuSystem2/WebContent/WEB-INF/lib/mysql-connector-java-3.1.10-bin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../stuSystem/StuSystem2/WebContent/WEB-INF/lib/fastjson-1.2.13.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

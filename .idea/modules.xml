@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../stuSystem/StuSystem2/StuSystem2.iml" filepath="$PROJECT_DIR$/../../stuSystem/StuSystem2/StuSystem2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/layuiD102.iml" filepath="$PROJECT_DIR$/layuiD102.iml" />
+      <module fileurl="file://F:/springboot课程/springboot第九章/springboot_d102_8_table/springboot_d102_8_table.iml" filepath="F:/springboot课程/springboot第九章/springboot_d102_8_table/springboot_d102_8_table.iml" />
+    </modules>
+  </component>
+</project>
